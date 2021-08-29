@@ -1,4 +1,4 @@
-package com.company.ticlab1;
+package ticlab1;
 
 import java.util.HashMap;
 import java.util.Map;

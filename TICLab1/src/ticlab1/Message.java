@@ -1,4 +1,4 @@
-package com.company.ticlab1;
+package ticlab1;
 
 public class Message {
     private String symbol;
